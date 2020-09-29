@@ -13,3 +13,5 @@ Minecraft Server Proxy:
 FTP Proxy:
 
 `sudo ./tcpproxy.sh 21 1.234.567.89 21`
+
+### MAKE SURE YOU ALLOW THE NEW PORTS IN THE TARGET FIREWALL / SECURITY GROUP
